@@ -4,6 +4,9 @@ A simple example of calling natives on PS4 GTA V using [idc's adaptation of CTur
 ## How to Activate
 * Press R1 + L1 
 
+## PAY ATTENTION PLEASE! 
+ This mod menu will only work with Leeful's HEN  - https://leeful.github.io/672v8/index.html
+
 ## Brief Explanation
 ### Purpose
 A large part of GTA V is controlled by custom script files Rockstar writes in their own format. A virtual processor is included in each version of the game to interpret these scripts. The main way for them to interact with and control the game is to invoke natives. Natives are functions defined within the game's executable. In the same way that scripts use natives to control the game, arbitrarily calling them will allow the caller to control the game to his/her desire. The purpose of this payload is to provide an easy way of doing just that. It includes a few small examples: making the player invincible, giving the player super jump, and teleporting the player when a button combination is pressed.
