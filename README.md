@@ -1,6 +1,8 @@
 # ArabicGuy 1.0 
 A simple example of calling natives on PS4 GTA V using [idc's adaptation of CTurt's PS4 SDK](https://github.com/idc/ps4-payload-sdk).
 
+## How to Activate
+* Press R1 + L1 
 
 ## Brief Explanation
 ### Purpose
